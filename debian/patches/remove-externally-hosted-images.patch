@@ -9,19 +9,19 @@ Description: Remove externally hosted images
 
 --- a/README.rst
 +++ b/README.rst
-@@ -17,8 +17,6 @@ https://letsencrypt.org. Be sure to checkout the
+@@ -17,8 +17,6 @@
  About the Let's Encrypt Client
  ==============================
-
+ 
 -|build-status| |coverage| |docs| |container|
 -
  In short: getting and installing SSL/TLS certificates made easy (`watch demo video`_).
-
+ 
  The Let's Encrypt Client is a tool to automatically receive and install
-@@ -51,22 +49,6 @@ server automatically!::
+@@ -51,22 +49,6 @@
  **Encrypt ALL the things!**
-
-
+ 
+ 
 -.. |build-status| image:: https://travis-ci.org/letsencrypt/letsencrypt.svg?branch=master
 -   :target: https://travis-ci.org/letsencrypt/letsencrypt
 -   :alt: Travis CI status
@@ -40,3 +40,4 @@ Description: Remove externally hosted images
 -
  .. _`installation instructions`:
     https://letsencrypt.readthedocs.org/en/latest/using.html
+ 
